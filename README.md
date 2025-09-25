@@ -23,7 +23,7 @@ A fun and interactive **Color Generator** project that allows users to generate 
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/masum1234-gok/for-fun-color-genaretor.git
+git clone https://github.com/mir-md-masum-billah/for-fun-color-genaretor.git
 ```
 
 2. **Navigate to the project folder:**
