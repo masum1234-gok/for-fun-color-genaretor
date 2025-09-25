@@ -2,7 +2,7 @@
 
 ![Project Status](https://img.shields.io/badge/status-active-success) 
 ![License](https://img.shields.io/badge/license-MIT-blue)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/masum1234-gok/for-fun-color-genaretor)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/mir-md-masum-billah/for-fun-color-genaretor)
 
 A fun and interactive **Color Generator** project that allows users to generate random colors and explore different color palettes effortlessly. Perfect for designers, developers, or anyone who loves playing with colors!
 
